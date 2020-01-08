@@ -1,2 +1,1 @@
-# CS470
-Introduction to AI
+# Implementation of VGGNet architecture and Neural Style Transfer in PyTorxh
