@@ -1,1 +1,1 @@
-# Implementation of VGGNet architecture and Neural Style Transfer in PyTorxh
+# Implementation of VGGNet architecture and Neural Style Transfer in PyTorch
